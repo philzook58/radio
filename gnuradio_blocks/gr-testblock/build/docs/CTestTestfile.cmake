@@ -1,0 +1,7 @@
+# CMake generated Testfile for 
+# Source directory: /Users/philip/Documents/radio/gnuradio_blocks/gr-testblock/docs
+# Build directory: /Users/philip/Documents/radio/gnuradio_blocks/gr-testblock/build/docs
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs(doxygen)

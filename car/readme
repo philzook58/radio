@@ -1,0 +1,2 @@
+ hackrf_transfer -t forward.cs8 -a 1 -x 47 -f 27000000
+ hackrf_transfer -r forward.cs8 -f 27000000 -n 8000000

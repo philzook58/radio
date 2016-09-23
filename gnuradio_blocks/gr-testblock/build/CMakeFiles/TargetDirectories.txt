@@ -1,0 +1,4 @@
+/Users/philip/Documents/radio/gnuradio_blocks/gr-testblock/build/docs/doxygen/CMakeFiles/doxygen_target.dir
+/Users/philip/Documents/radio/gnuradio_blocks/gr-testblock/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/Users/philip/Documents/radio/gnuradio_blocks/gr-testblock/build/python/CMakeFiles/pygen_python_7a69e.dir
+/Users/philip/Documents/radio/gnuradio_blocks/gr-testblock/build/CMakeFiles/uninstall.dir
